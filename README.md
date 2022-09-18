@@ -2,6 +2,8 @@
 
 In this project, I explored the funding to Indian start-ups from 2018 to 2021 to help my hypothetical team which is trying to venture into the Indian start-up ecosystem make an informed decision.
 
+I used Python and Jupyter for this project.
+
 ## Column names and description:
 -   **Company/Brand**: Name of the company/start-up. String.
 
