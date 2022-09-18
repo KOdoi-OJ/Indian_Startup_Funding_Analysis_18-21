@@ -1,90 +1,41 @@
 # Data Analysis Project -- Indian Start-up Funding Analysis
 
-Ideas, creativity, and execution are essential for a start-up to
-flourish. But are they enough? Investors provide start-ups and other
-entrepreneurial ventures with the capital---popularly known as
-\"funding\"---to think big, grow rich, and leave a lasting impact. In
-this project, you are going to analyse funding received by start-ups in
-India from 2018 to 2021. You will find the data for each year of funding
-in a separate csv file in the dataset provided. In these files you\'ll
-find the start-ups' details, the funding amounts received, and the
-investors\' information.
+In this project, I explored the funding to Indian start-ups from 2018 to 2021 to help my hypothetical team which is trying to venture into the Indian start-up ecosystem make an informed decision.
 
-**Column names and description:**
+## Column names and description:
+-   **Company/Brand**: Name of the company/start-up. String.
 
--   **Company/Brand**: Name of the company/start-up
+-   **Founded**: Year start-up was founded. String.
 
--   **Founded**: Year start-up was founded
+-   **Sector**: Sector of operation. String.
 
--   **Sector**: Sector of service
+-   **What it does**: Description of Company. String.
 
--   **What it does**: Description about Company
+-   **Founders**: Founders of the Company. String.
 
--   **Founders**: Founders of the Company
+-   **Investor**: Investors. String.
 
--   **Investor**: Investors
+-   **Amount(\$)**: Funds raised. Float.
 
--   **Amount(\$)**: Raised fund
+-   **Stage**: Round of funding. String.
 
--   **Stage**: Round of funding reached
+ 
+## Hypothesis
 
-## Scenario 
+H0: Funding to startups in the Indian ecosystem is centralized around specific locations and sectors.
 
-Your team is trying to venture into the Indian start-up ecosystem. As the 
-data expert of the team you are to investigate the ecosystem and propose 
-the best course of action. 
+In line with the above, several questions were asked and some findings made accordingly.
 
-## Instructions
 
-Your task is to develop a unique story from this dataset by stating and
-testing a hypothesis, asking questions, perform analysis and share
-insights with appropriate visualisations.
+## Conclusion
+Accept the null hypothesis as funding is centralized around few locations (Mumbai and Bangalore) and few sectors (Fintech, Retail, Education).
 
-So as part of the project you are to:
 
--   Ask questions
+## Recommendation
+To the Team, Fintech startups headquartered in Mumbai received significantly higher amounts per deal than the average startup, so prioritize this intersection. Secondly, you may have to seek alternative sources of funding within the first year of operation as you look forward to a funding round.
+You may also research further into the other key sectors and locations to be better informed on available options.
 
--   Develop hypothesis
+Thank you.
 
--   Process the data
-
--   Analyse the data
-
--   Visualise the data
-
-Upon completion compile these processes in a blog post and share your
-analysis on Medium, LinkedIn, Dev.to, personal blog or a suitable
-blogging website.
-
-# Rubric
-
-Data Processing:
-
--   **Excellent**: Described in detail the data cleaning process and
-    assumptions
-
--   **Good**: Gave a summary of the data cleaning process
-
--   **Fair**: Gave a bullet list of data cleaning process with short
-    sentences
-
-Hypothesis & Questions:
-
--   **Excellent**: Stated a hypothesis and asked at least 5 questions
-
--   **Good**: Stated a hypothesis and asked up to 4 questions
-
--   **Fair**: No hypothesis and asked up to 3 questions
-
-Analysis & Visualisation:
-
--   **Excellent**: Validated the hypothesis and answered all questions
-    listed earlier with appropriate charts. Used relevant diagrams and
-    charts to show analysis/metrics
-
--   **Good**: Validated the hypothesis and answered some of the
-    questions listed with appropriate charts. Used relevant diagrams but
-    might need some improvement.
-
--   **Fair**: Lack of clarity on whether the hypothesis was true or not.
-    Answered some of the questions listed.
+**Thumbnail source:**
+https://quasa.io/media/what-the-future-of-startup-funding
