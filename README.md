@@ -39,5 +39,7 @@ You may also research further into the other key sectors and locations to be bet
 
 Thank you.
 
+Link to article on Medium: https://medium.com/@kwameotchere/data-analysis-of-indian-start-up-funding-2018-2021-7418afebb6cf
+
 **Thumbnail source:**
 https://quasa.io/media/what-the-future-of-startup-funding
